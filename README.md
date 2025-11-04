@@ -12,20 +12,11 @@
 - Building scalable **hiring frameworks & recruitment processes**  
 - Supporting startups in Europe with **HR strategy & employer branding**  
 - Connecting developers, PMs, and growth experts with ambitious projects  
-
----
-
-### 📊 My Work & Resources  
-- 🧩 [Web3 Hiring Playbook](TBA)
   
 ---
 
 ### 💬 Let's Connect  
 [LinkedIn](https://linkedin.com/in/pierremahot)  
-[Twitter]((https://x.com/PierreM45_22))  
+[Twitter]([(https://x.com/PierreM45_22)])  
 [Email](mailto:pierre.mahot@huntalnt.com)
 
----
-
-![Profile views](https://komarev.com/ghpvc/?username=PierreMahot&color=blue)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreMahot&show_icons=true&theme=tokyonight)
