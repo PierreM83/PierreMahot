@@ -1,9 +1,9 @@
 # Hi, I'm Pierre Mahot 🕵️‍♂️  
 ### Web3 Talent Partner | HR Strategy & Technical Sourcing   
 
-🚀 Founder of **Yupe Talent Solutions**, a consultancy helping Web3 and Blockchain companies recruit talents across Europe.  
-💼 Supporting projects recruiting **Dev** , **Product** , **Sales** , **Compliance** and **Legal** professionals.
-🌍 Based in **Paris**
+Founder of **Yupe Talent Solutions**, a consultancy helping Web3 and Blockchain companies recruit talents across Europe.  
+Supporting projects recruiting **Dev** , **Product** , **Sales** , **Compliance** and **Legal** professionals.
+Based in **Paris**
 
 ---
 
