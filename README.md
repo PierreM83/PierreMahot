@@ -16,7 +16,7 @@ Based in **Paris**
 ---
 
 ### 💬 Let's Connect  
-[LinkedIn](www.linkedin.com/in/pierre-mahot)  
+[LinkedIn](https://www.linkedin.com/in/pierre-mahot/)  
 [Twitter](https://x.com/PierreM45_22)  
 [Email](mailto:pierre.mahot@huntalnt.com)
 
